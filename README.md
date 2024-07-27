@@ -58,3 +58,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ---
 
 Feel free to adjust or expand this description based on the specific details and features of your project.
+
+Copyright (C) imman_tech 2024
